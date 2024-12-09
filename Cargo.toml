@@ -1,0 +1,7 @@
+[package]
+name = "js-repl"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+v8 = { version = "130.0.2" }
